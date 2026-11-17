@@ -25,7 +25,7 @@ This project covers the full Power BI workflow — from importing and cleaning r
 
 **3. DAX Measures**
 - Created key measures using DAX for totals, averages, growth, and comparisons
-- Example: Total Sales, Total Profit, YoY Growth
+- Example: Total Sales by country, Total Profit by category, YoY Growth, Avgprofit by product
 
 **4. Visualization & Dashboard Design**
 Built an interactive, single-page dashboard with:
@@ -34,6 +34,7 @@ Built an interactive, single-page dashboard with:
 - **Stacked Column Charts** – Compare values across categories and time
 - **KPI Cards** – Show total sales, profit, and key metrics at a glance
 - **Line / Bar Charts** – Track trends over time
+- **Gauge bars** – Track key measures across years
 
 **5. Interactivity**
 - Cross-filtering between visuals
